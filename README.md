@@ -1,4 +1,4 @@
-<h1 align="center">Web Chatting System</h1>
+<h1 align="center">Web Chatting System(GuffGaff)</h1>
 
   <p>GuffGaff is a real-time private chat application. It allows users to chat privately, view user status, 
     and exchange files using AJAX-based real-time interaction and a responsive design, though the code is not very clean.</p> 
