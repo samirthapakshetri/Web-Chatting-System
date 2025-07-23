@@ -21,3 +21,24 @@
 </ul>
 <br>
 <h2>Preview</h2>
+<table align="center">
+  <tr><td><img src="preview/home.png" alt="Home"></td></tr>
+  <tr><td align="center">Home Page</td></tr>
+</table>
+<table align="center">
+  <tr><td><img src="preview/sign up.png" alt="Signup"></td></tr>
+  <tr><td align="center">Sign up Page</td></tr>
+</table>
+<table align="center">
+  <tr><td><img src="preview/messagesection.png" alt="MessageSection"></td></tr>
+  <tr><td align="center">Message Section</td></tr>
+</table>
+<table align="center">
+  <tr><td><img src="preview/friends.png" alt="Friends"></td></tr>
+  <tr><td align="center">Friends Section</td></tr>
+</table>
+<table align="center">
+  <tr><td><img src="preview/chat.jpeg" alt="Chat"></td></tr>
+  <tr><td align="center">Private Chat</td></tr>
+</table>
+
